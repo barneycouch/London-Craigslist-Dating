@@ -1,0 +1,3 @@
+data - raw data from the internet or wherever
+munge - processing step (most intermediate work happens here)
+src - final products, working perfectly on their own

@@ -1,0 +1,1 @@
+wget -r -np -nH –cut-dirs=3 -R index.html http://london.craigslist.co.uk/m4w/
